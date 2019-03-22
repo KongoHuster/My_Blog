@@ -5,9 +5,8 @@ categories:
 - 讲座培训
 tags:
 - Dian
---
+---
 
-[TOC]
 
 ### 1.采用多文件编译方式运行main
 指令输入

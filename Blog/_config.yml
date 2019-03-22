@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 浮生若梦
+title: 闳
 subtitle:
 description:
 keywords:
-author: 闳
+author: 柳柳
 language:
 timezone:
 
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: jacman
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
