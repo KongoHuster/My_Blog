@@ -16,7 +16,7 @@ sys.setdefaultencoding('utf8')
 
 # Hexo 文件夹
 HEXO_DIR = '/Users/yzh/Desktop/My_Blog/Blog/source/_posts'
-
+# HEXO_DIR = '/home/yzihong307/My_Blog/Blog/source/_posts'
 # 登录有道云笔记后存储在 Cookie 里的值
 YNOTE_PERS = 'PTWlp39OyD4uS4JQlsXEJ4ZrgcbPHXuj4pzxAWtAkae4lDliS2UxdO4l9xEAeN8bO4; YNOTE_CSTK=hrc5yfRJ; Hm_lpvt_8875c662941dbf07e39c556c8d97615f=1553084183'
 YNOTE_SESS = 'PTWlp39OyD4OOUrYzsXEJ4IBqlqlhkuj4Xe4gFFFAsD4SrNHN08wOc83SWrTQs12m8'
