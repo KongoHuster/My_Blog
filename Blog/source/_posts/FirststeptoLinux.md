@@ -1,13 +1,11 @@
 ---
-title: My first step to Linux
-date: 2018-10-06 15:44:50
+title: First step to Linux
+date: 2018-10-06 16:07:40
 categories:
-- Linux
+- Linux学习
 tags:
-- Seedclass
 - Linux
 ---
-
 ## First step to Linux
 
 
@@ -249,6 +247,7 @@ ls
 
 df
 ```
+
 
 
 
